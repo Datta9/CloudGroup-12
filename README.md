@@ -1,12 +1,11 @@
 # CloudGroup-12
 Create a repository in any source code management tool (preferably GitHub) , with a ReadMe file with table of contents of your project, and provide responses to all the questions below:
 
-Project Scope and Business Goal: Clearly define the scope and objectives of
-the project.
-       o Project Scope:
+
+o Project Scope:
             Specific Problem: The project will aim to predict and understand factors influencing passenger satisfaction.This will align with educational goals related to machine learning and data analytics with practical applications in customer service and business strategy.
 
-      o Domain:   
+o Domain:   
             Industry: The project will be situated within the airline industry.
             Stakeholders: Stakeholders will include passengers, airline companies, regulatory bodies, and service providers within the airports.
 
