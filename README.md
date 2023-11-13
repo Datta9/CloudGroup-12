@@ -15,7 +15,7 @@ to stay informed about the latest advancements and best practices in the
 field. Sources should be current and at least 5 sources should be
 documented and summarized.
 
-      o Data Source(s): 
+Data Source(s): 
       The below are the potential datasources from where we can gather features required for determining the satisfaction of the customer.
             1. Airline Passenger Satisfaction | Kaggle: This dataset on Kaggle contains customer satisfaction scores from airline passengers.
 
