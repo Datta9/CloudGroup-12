@@ -47,7 +47,5 @@ Real-Time Analysis: The need for real-time analysis can pose a challenge, especi
 Data Quality: The quality of data collected from sources like social media or customer feedback surveys can vary greatly. Issues such as bias in responses, missing data, or inaccurate data can impact the reliability of the analysis.
 
 
-KPI’s: Determine what KPIs (Key Performance Indicators) And
-measures of success are important in the chosen domain. Is it
-accuracy, precision, recall, or some other metric? This will set the
-stage for the metrics that will be used to optimize models.
+KPI’s: 
+Key Performance Indicators (KPIs) in this context would encompass the utilization of data attributes, the extent of data preprocessing, and the diversity of the dataset. It's crucial to have a wide-ranging dataset for robust analysis. Another significant KPI involves experimenting with various machine learning algorithms to identify the one that delivers the best performance. The optimal model would be the one that most accurately predicts or classifies according to the problem at hand. These KPIs collectively contribute to the successful analysis of airline passenger satisfaction.
