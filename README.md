@@ -23,11 +23,12 @@ The below are the potential datasources from where we can gather features requir
 3. Maven Churn Challenge | Maven Analytics: This dataset includes airline satisfaction scores for 129,880 passengers. Each record represents  one passenger and contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline.
 
 (1) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
-(2) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.(3) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
-      (4) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.   
-       (5) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.
-            (6) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
-            (7) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
+(2) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction
+(3)Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
+(4) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.   
+(5) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.
+(6) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
+(7) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
 
      o Domain-specific Challenges: 
                   Data Integration: Integrating data from different sources like customer feedback surveys, social media sentiment analysis, operational flight data, and third-party service ratings can be challenging due to the heterogeneity of data. Each source may have its own format, structure, and quality, requiring significant preprocessing and cleaning efforts.
