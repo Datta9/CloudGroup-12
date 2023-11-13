@@ -1,7 +1,7 @@
 # CloudGroup-12
 Create a repository in any source code management tool (preferably GitHub) , with a ReadMe file with table of contents of your project, and provide responses to all the questions below:
 
-1. Project Scope and Business Goal: Clearly define the scope and objectives of
+Project Scope and Business Goal: Clearly define the scope and objectives of
 the project.
        o Project Scope:
             Specific Problem: The project will aim to predict and understand factors influencing passenger satisfaction.This will align with educational goals related to machine learning and data analytics with practical applications in customer service and business strategy.
@@ -43,7 +43,7 @@ documented and summarized.
 
                   Data Quality: The quality of data collected from sources like social media or customer feedback surveys can vary greatly. Issues such as bias in responses, missing data, or inaccurate data can impact the reliability of the analysis.
 
-                  
+
      o KPI’s: Determine what KPIs (Key Performance Indicators) And
 measures of success are important in the chosen domain. Is it
 accuracy, precision, recall, or some other metric? This will set the
