@@ -31,6 +31,7 @@ The below are the potential datasources from where we can gather features requir
 (7) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
 
 Domain-specific Challenges: 
+
 Data Integration: Integrating data from different sources like customer feedback surveys, social media sentiment analysis, operational flight data, and third-party service ratings can be challenging due to the heterogeneity of data. Each source may have its own format, structure, and quality, requiring significant preprocessing and cleaning efforts.
 
 Privacy Concerns: Collecting and analyzing data related to airline passenger satisfaction may involve handling sensitive personal information. Ensuring the privacy and anonymity of individuals while maintaining the utility of the data can be a significant challenge.
