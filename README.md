@@ -47,7 +47,7 @@ Real-Time Analysis: The need for real-time analysis can pose a challenge, especi
 Data Quality: The quality of data collected from sources like social media or customer feedback surveys can vary greatly. Issues such as bias in responses, missing data, or inaccurate data can impact the reliability of the analysis.
 
 
-     o KPI’s: Determine what KPIs (Key Performance Indicators) And
+KPI’s: Determine what KPIs (Key Performance Indicators) And
 measures of success are important in the chosen domain. Is it
 accuracy, precision, recall, or some other metric? This will set the
 stage for the metrics that will be used to optimize models.
