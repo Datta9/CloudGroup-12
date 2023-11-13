@@ -31,7 +31,9 @@ The below are the potential datasources from where we can gather features requir
 (4) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.   
 
 (5) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.
+
 (6) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
+
 (7) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
 
 Domain-specific Challenges: 
