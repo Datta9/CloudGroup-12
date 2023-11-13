@@ -9,9 +9,7 @@ o Domain:
             Industry: The project will be situated within the airline industry.
             Stakeholders: Stakeholders will include passengers, airline companies, regulatory bodies, and service providers within the airports.
 
-Literature Review: A comprehensive review will be conducted to understand current models and methods for predicting customer satisfaction in airlines. At least five recent and relevant sources will be summarized in the repository.
-
-       o Literature Review: Conduct a literature review of research papers, case
+Literature Review: Conduct a literature review of research papers, case
 studies, articles, and books related to the chosen domain. The purpose is
 to stay informed about the latest advancements and best practices in the
 field. Sources should be current and at least 5 sources should be
