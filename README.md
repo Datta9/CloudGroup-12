@@ -16,15 +16,14 @@ field. Sources should be current and at least 5 sources should be
 documented and summarized.
 
 Data Source(s): 
-      The below are the potential datasources from where we can gather features required for determining the satisfaction of the customer.
-      1. Airline Passenger Satisfaction | Kaggle: This dataset on Kaggle contains customer satisfaction scores from airline passengers.
-      2. Airlines - The American Customer Satisfaction Index: The American Customer Satisfaction Index provides a definitive measure of passenger satisfaction with cause-and-effect analysis. It includes data from 9 major airlines, plus an aggregate of smaller carriers. The 2023 results are based on data collected from April 2022 to March 2023.
+The below are the potential datasources from where we can gather features required for determining the satisfaction of the customer.
+1. Airline Passenger Satisfaction | Kaggle: This dataset on Kaggle contains customer satisfaction scores from airline passengers.
+2. Airlines - The American Customer Satisfaction Index: The American Customer Satisfaction Index provides a definitive measure of passenger satisfaction with cause-and-effect analysis. It includes data from 9 major airlines, plus an aggregate of smaller carriers. The 2023 results are based on data collected from April 2022 to March 2023.
 
-      3. Maven Churn Challenge | Maven Analytics: This dataset includes airline satisfaction scores for 129,880 passengers. Each record represents  one passenger and contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline.
+3. Maven Churn Challenge | Maven Analytics: This dataset includes airline satisfaction scores for 129,880 passengers. Each record represents  one passenger and contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline.
 
-      (1) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
-      (2) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.
-       (3) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
+(1) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
+(2) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.(3) Airline Passenger Satisfaction | Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction.
       (4) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.   
        (5) Airlines - The American Customer Satisfaction Index. https://theacsi.org/industries/travel/airlines/.
             (6) Maven Churn Challenge | Maven Analytics. https://mavenanalytics.io/blog/maven-airlines-challenge.
