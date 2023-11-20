@@ -93,6 +93,9 @@ We employed AWS Glue for schema discovery and data type definition, ensuring our
 
 ![visualization 2](https://github.com/Datta9/CloudGroup-12/assets/116744004/b992a738-122d-4eed-82c4-dfa055edcea5)
 
+**AWS S3**
+
+![S3](https://github.com/Datta9/CloudGroup-12/assets/116744004/a015c84a-5105-4621-a736-482875862306)
 
 
 
