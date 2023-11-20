@@ -77,6 +77,13 @@ We employed AWS Glue for schema discovery and data type definition, ensuring our
 
 <img width="1440" alt="Query5" src="https://github.com/Datta9/CloudGroup-12/assets/116744004/3c318720-0012-45aa-bab5-075c0e339d7c">
 
+**AWS QUICKSITE**
+![visualization](https://github.com/Datta9/CloudGroup-12/assets/116744004/fe47f0f7-b3b3-418a-b658-7593043d29ce)
+
+![visualization 2](https://github.com/Datta9/CloudGroup-12/assets/116744004/b992a738-122d-4eed-82c4-dfa055edcea5)
+
+
+
 
 
 
