@@ -64,6 +64,11 @@ Flight delays are recorded in terms of departure and arrival delay minutes, shed
 ### Data Understanding
 We employed AWS Glue for schema discovery and data type definition, ensuring our dataset's structure was accurately recognized and categorized. Then we used Glue crawler for refining the dataset schema, allowing for precise categorization and organization of data fields. For in-depth querying and extracting insights, AWS Athena was used. This enabled us to perform comprehensive data analysis efficiently, allowing for complex queries and data aggregations.This approach not only streamlined our data analysis process but also enhanced the accuracy and relevance of the insights gained, proving crucial for informed decision-making and strategic planning Additionally, we utilized AWS QuickSight for data visualization. QuickSight's powerful visualization tools provided an intuitive interface for exploring and presenting the data, making it easier to identify patterns, trends, and correlations. This visual approach to data analysis enhanced our ability to gain insights, allowing us to make more informed decisions and develop effective strategies based on the dataset.
 
+### AWS PIPELINE / SOLUTION CHART
+
+<img width="807" alt="AWS Pipeline : Solution Chart" src="https://github.com/Datta9/CloudGroup-12/assets/115682022/430c6193-b812-44e7-bc3c-4dd09a884f4f">
+
+
 ### AWS GLUE PIPELINE
 ![Glue pipline](https://github.com/Datta9/CloudGroup-12/assets/116744004/89c16af9-f4ba-4944-8202-fc9fbc26b445)
 
