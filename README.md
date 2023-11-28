@@ -10,7 +10,7 @@
 5. [KPI’s](#kpis)
 6. [Deliverable -2](#deliverable---2)
    - [Data Understanding](#data-understanding)
-   - [AWS Pipleine / Solution Chart](#aws-pipeline-solution-chart)
+   - [AWS Pipeline / Solution Chart](#aws-pipeline-solution-chart)
    - [Aws Glue Pipeline](#aws-glue-pipeline)
    - [AWS Athena](#aws-athena)
    - [AWS Quicksight](#aws-quicksight)
