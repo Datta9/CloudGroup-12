@@ -141,3 +141,6 @@ Visualizations, including count plots, histograms, and heatmaps, are employed to
 ![Sagemaker-Inflight WIFI service](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/sagemaker%20l4.png?raw=true)
 
 ![Sagemaker-Confusion Matrix](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/sagemaker%20l5.png?raw=true)
+![Sagemaker-Evaluation Metric1](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/eval_metric.png?raw=true)
+![Sagemaker-Evaluation Metric2](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/eval_metrc2.png?raw=true)
+![Sagemaker-ROC Curve](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/roc_curve.png?raw=true)
