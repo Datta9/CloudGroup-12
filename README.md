@@ -144,3 +144,5 @@ Visualizations, including count plots, histograms, and heatmaps, are employed to
 ![Sagemaker-Evaluation Metric1](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/eval_metric.png?raw=true)
 ![Sagemaker-Evaluation Metric2](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/eval_metrc2.png?raw=true)
 ![Sagemaker-ROC Curve](https://github.com/Datta9/CloudGroup-12/blob/main/Screenshots/roc_curve.png?raw=true)
+![Sagemaker-Deployed Model](https://github.com/Shashank65536/CloudGroup-12/blob/main/Screenshots/deployed_model.png?raw=true)
+![Sagemaker-Model Prediction](https://github.com/Shashank65536/CloudGroup-12/blob/main/Screenshots/model_predictions.png?raw=true)
